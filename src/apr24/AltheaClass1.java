@@ -6,6 +6,7 @@ public class AltheaClass1 {
 
         System.out.println("Hello.");
 
+        int num1=2;
     }
 
 }
